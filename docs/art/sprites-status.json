@@ -100,7 +100,7 @@
   "originalReferenceSource": {
     "availability": "public-github",
     "branch": "references/original-art-archives",
-    "metadataCommit": "127bb12311545137a64e059fe7b816a289766517",
+    "metadataCommit": "94abd0bb196c9d55f04f99f098f4a2aab7facd25",
     "dataCommit": "e5332631081372ce553cc78ef66500ee806cff49",
     "parts": 63,
     "totalOriginalBytes": 508301915,
@@ -109,6 +109,8 @@
     "downloader": "tools/references/download-originals.py",
     "requiresChatAttachments": false,
     "mergeStorageBranchIntoMain": false,
-    "releaseCreated": false
+    "releaseCreated": false,
+    "publicDownloadVerification": "passed for all three original ZIPs, including size and SHA-256",
+    "httpRetryVerification": "passed for truncated and wrong-hash transfers"
   }
 }

@@ -24,7 +24,7 @@ a entrega com receitas genéricas, recolorações, rotações ou cópias dos ori
 
 RECUPERE AS ARTES ORIGINAIS
 Todos os dados dos três ZIPs estão públicos em:
-https://github.com/songjongdevsecops/songjongdevsecops.github.io/tree/127bb12311545137a64e059fe7b816a289766517/originals
+https://github.com/songjongdevsecops/songjongdevsecops.github.io/tree/94abd0bb196c9d55f04f99f098f4a2aab7facd25/originals
 
 Leia as instruções desse diretório. Use o script verificado para recuperar
 magias.zip, criaturas.zip e sprites-completos.zip, reunindo as 63 partes e
@@ -32,7 +32,7 @@ conferindo os hashes. No projeto atualizado:
 python3 tools/references/download-originals.py --destination ../original-art-references
 
 Se o script não estiver no checkout, obtenha originals/download.py no commit
-127bb12311545137a64e059fe7b816a289766517 do repositório de destino. Não precisa
+94abd0bb196c9d55f04f99f098f4a2aab7facd25 do repositório de destino. Não precisa
 de anexos deste chat nem de acesso à conta original. Não use a branch de
 armazenamento references/original-art-archives como base de PRs nem a integre
 em main. Os originais são referências e não devem entrar no build do jogo.

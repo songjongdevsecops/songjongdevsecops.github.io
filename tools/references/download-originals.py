@@ -22,17 +22,23 @@ def valid(path, size, sha256):
     return path.is_file() and path.stat().st_size == size and digest(path) == sha256
 
 
-def download(url, target, expected_size=None):
+def download(url, target, expected_size=None, expected_sha256=None):
     for attempt in range(3):
         try:
             request = urllib.request.Request(url, headers={'User-Agent': 'LearningValley-OriginalReferences/1'})
             with urllib.request.urlopen(request, timeout=60) as response, target.open('wb') as output:
                 total = 0
+                checksum = hashlib.sha256()
                 while block := response.read(1024 * 1024):
                     total += len(block)
                     if expected_size is not None and total > expected_size:
                         raise ValueError('Download larger than expected')
                     output.write(block)
+                    checksum.update(block)
+                if expected_size is not None and total != expected_size:
+                    raise ValueError("Truncated download")
+                if expected_sha256 is not None and checksum.hexdigest() != expected_sha256:
+                    raise ValueError("Downloaded checksum mismatch")
             return
         except Exception:
             target.unlink(missing_ok=True)
@@ -53,7 +59,7 @@ def main():
         data = args.manifest.read_bytes()
     else:
         manifest_file = destination / '.manifest.download'
-        download(MANIFEST_URL, manifest_file, 1024 * 1024)
+        download(MANIFEST_URL, manifest_file)
         data = manifest_file.read_bytes()
         manifest_file.unlink()
     if hashlib.sha256(data).hexdigest() != MANIFEST_SHA256:
@@ -90,7 +96,7 @@ def main():
                         if not valid(local, part['bytes'], part['sha256']):
                             temporary = local.with_suffix('.downloading')
                             download('https://raw.githubusercontent.com/' + REPOSITORY + '/' + commit + '/' + path,
-                                     temporary, part['bytes'])
+                                     temporary, part['bytes'], part['sha256'])
                             if not valid(temporary, part['bytes'], part['sha256']):
                                 temporary.unlink(missing_ok=True)
                                 raise ValueError('Corrupt downloaded part: ' + path)

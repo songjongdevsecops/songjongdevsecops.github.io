@@ -8,8 +8,8 @@ Todos os bytes dos três ZIPs originais estão na branch de armazenamento
 descartar imagens, detalhes ou quadros. O script entrega novamente os três ZIPs
 originais, byte por byte, e confere SHA-256 de cada parte e arquivo completo.
 
-[Arquivos públicos e instruções](https://github.com/songjongdevsecops/songjongdevsecops.github.io/tree/127bb12311545137a64e059fe7b816a289766517/originals).
-[Manifesto imutável](https://github.com/songjongdevsecops/songjongdevsecops.github.io/blob/127bb12311545137a64e059fe7b816a289766517/originals/manifest.json).
+[Arquivos públicos e instruções](https://github.com/songjongdevsecops/songjongdevsecops.github.io/tree/94abd0bb196c9d55f04f99f098f4a2aab7facd25/originals).
+[Manifesto imutável](https://github.com/songjongdevsecops/songjongdevsecops.github.io/blob/94abd0bb196c9d55f04f99f098f4a2aab7facd25/originals/manifest.json).
 
 | ZIP original | Bytes | Partes | SHA-256 |
 |---|---:|---:|---|
@@ -35,7 +35,7 @@ do commit fixo abaixo e execute fora do projeto:
 
 ```sh
 mkdir -p ../original-art-references
-curl -fL 'https://raw.githubusercontent.com/songjongdevsecops/songjongdevsecops.github.io/127bb12311545137a64e059fe7b816a289766517/originals/download.py' -o ../original-art-references/download-originals.py
+curl -fL 'https://raw.githubusercontent.com/songjongdevsecops/songjongdevsecops.github.io/94abd0bb196c9d55f04f99f098f4a2aab7facd25/originals/download.py' -o ../original-art-references/download-originals.py
 python3 ../original-art-references/download-originals.py --destination ../original-art-references
 ```
 
