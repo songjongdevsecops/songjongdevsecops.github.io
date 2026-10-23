@@ -1,0 +1,344 @@
+{
+  "version": 1,
+  "format": "original ZIP bytes split into ordered parts; no images altered",
+  "repository": "songjongdevsecops/songjongdevsecops.github.io",
+  "dataCommit": "e5332631081372ce553cc78ef66500ee806cff49",
+  "archives": [
+    {
+      "name": "magias.zip",
+      "bytes": 1316455,
+      "sha256": "e7a6446a99fc4e9c6d5f3ab74815a6b0b9ae2b9a02452b805afd50e7255e0be1",
+      "parts": [
+        {
+          "path": "originals/magias.zip",
+          "bytes": 1316455,
+          "sha256": "e7a6446a99fc4e9c6d5f3ab74815a6b0b9ae2b9a02452b805afd50e7255e0be1"
+        }
+      ]
+    },
+    {
+      "name": "criaturas.zip",
+      "bytes": 18624681,
+      "sha256": "72df67f1036ff828a70cd4e6a087841789894632f7d23eea679d2cc46a3a9fcb",
+      "parts": [
+        {
+          "path": "originals/criaturas.zip.parts/000",
+          "bytes": 8388608,
+          "sha256": "f4a75a9143673916c31c7fbcdc83204e7cadf9acc8b73158f78e3c23628f97e4"
+        },
+        {
+          "path": "originals/criaturas.zip.parts/001",
+          "bytes": 8388608,
+          "sha256": "2ac2b96b0530f48d0f5c4e7b478efbd6433c208db3be6b995e0909146c8f7c78"
+        },
+        {
+          "path": "originals/criaturas.zip.parts/002",
+          "bytes": 1847465,
+          "sha256": "57d48ebba01fa0b41c47e286954ae9d710328ac9e6aa510242cea9e99b5a1c52"
+        }
+      ]
+    },
+    {
+      "name": "sprites-completos.zip",
+      "bytes": 488360779,
+      "sha256": "db353357ddd2821657e265b42cbb04d0f3b39fcdd1b86d60b8e2e7140ed7d06e",
+      "parts": [
+        {
+          "path": "originals/sprites-completos.zip.parts/000",
+          "bytes": 8388608,
+          "sha256": "586c0c16f75dd6b5f460f92622888f7eb02868a306f22e0ca13c7da57d0f2990"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/001",
+          "bytes": 8388608,
+          "sha256": "c79f50fb400633a8a6776d49d7a8a086e88e5360eb903dfd328cbb3e9080df72"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/002",
+          "bytes": 8388608,
+          "sha256": "a35d81bca817a55a4b97cafac80c49695535cecfebbeecf451b259a4c8a65238"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/003",
+          "bytes": 8388608,
+          "sha256": "9f43b34e5a171bb082ea14e1d06151c5d363ffe1a8ad5152601fbee8f04f5edd"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/004",
+          "bytes": 8388608,
+          "sha256": "21e2e2d61fd3ff63768e7ab6047d1980e007ff375648f893f196eda6703112a7"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/005",
+          "bytes": 8388608,
+          "sha256": "7b965a62942a00bc50106fef1b4769e48be06b0f00d824dbd776d8706f7df2cd"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/006",
+          "bytes": 8388608,
+          "sha256": "d924de37c6701815cc57bbfaa81e7fc8cbba82db92564dbab12fe4626a02a5b5"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/007",
+          "bytes": 8388608,
+          "sha256": "fe78de40084e811e60f11d965a8e646af139a9a984928279ba96232669c541d3"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/008",
+          "bytes": 8388608,
+          "sha256": "4749272c77a80402fecd8f035a8978b2083acd991e6850155db55e833e0f5b8c"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/009",
+          "bytes": 8388608,
+          "sha256": "35fe1aaf8cc0e882938b128c097fd82580f3ba53f7d64386ce9ac6a9fadd3885"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/010",
+          "bytes": 8388608,
+          "sha256": "384a69c87fe7e2be4d7cf9efbb01fc695cddf3d02faf7c4d2f192d57bc253016"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/011",
+          "bytes": 8388608,
+          "sha256": "65dd18df4491c137dfe4e9e5ce00ab3b646beefd9bcf1c7ed29c142aabe12b80"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/012",
+          "bytes": 8388608,
+          "sha256": "5a2e5ca3611c287ac7f96c7b7dbb670bb57f6f1497b4cc135612a6501a8bb7eb"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/013",
+          "bytes": 8388608,
+          "sha256": "e7a31c0d67b4bc736670642d46c6ae9c5763ff0ce596051afce96ecd46a56fb2"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/014",
+          "bytes": 8388608,
+          "sha256": "1cf67fe75a5e71f7426b3b058d5b2313a226b35fad03bc1ee6f36a97d3787bc6"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/015",
+          "bytes": 8388608,
+          "sha256": "f84f24d0c5a447e3e8804baf3dbb086d6cc5d700d7912b622614ba5a65f8d16a"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/016",
+          "bytes": 8388608,
+          "sha256": "8831209ab3b6b592eec3bc7aeab4973247e20c47b3ea2b41bb0d75ecf6bbb2a9"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/017",
+          "bytes": 8388608,
+          "sha256": "1971dc64ac1800782352d9a523d1ef059e87368b3437f65235573db7eddbb9eb"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/018",
+          "bytes": 8388608,
+          "sha256": "df09715917ed27bfb75a4800ef2a6f9c20de233b639d4576f9451fe848eb3943"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/019",
+          "bytes": 8388608,
+          "sha256": "4348bff676299a31c30a241c0021dcc4bc1c3a0a12ca1d4f7359e3630c4aa0f6"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/020",
+          "bytes": 8388608,
+          "sha256": "e2bc4f6e2d6ed2584988e74551bb68f45a041995d478d9f4c90c8eacbc21ffa1"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/021",
+          "bytes": 8388608,
+          "sha256": "881e925e46334969845261d6f26aff1bfacb60c077ca558d34fb5795cf298127"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/022",
+          "bytes": 8388608,
+          "sha256": "e7834e70ce16c465088cc6ce484654ddb96f41be60aef204f30eb6f3b4a1eedc"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/023",
+          "bytes": 8388608,
+          "sha256": "5a44b49422f1f7135f4f81e1f15f962f709a6f8b6615802dbb9402bfd8148785"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/024",
+          "bytes": 8388608,
+          "sha256": "ba0e28bcd644c028db0ea5cefa4e297721b6de8ce57eb60ff60cb98943f8eff0"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/025",
+          "bytes": 8388608,
+          "sha256": "5756a95b0734cb0840a54bbe01b2fad064699287fdf81a5144e96f07a6e784b7"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/026",
+          "bytes": 8388608,
+          "sha256": "5947deb0e158157faa1d5cca60f2a6a9d054636ba29b60fee18370d19f7bf76c"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/027",
+          "bytes": 8388608,
+          "sha256": "d73cb7d418c43eb42e180a10cb782b309c8ecb28de64b5d29f0941284ddad90f"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/028",
+          "bytes": 8388608,
+          "sha256": "32e8659541f3cfa38468ebb0f7dbfe86d9540d83ffc1e4c2d0a89d1695560c0c"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/029",
+          "bytes": 8388608,
+          "sha256": "dd67194f611e3af6a3fb6523591124b7cded6cb70333e2947ddc9a656ce867d7"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/030",
+          "bytes": 8388608,
+          "sha256": "06b5733ab1a21d017cb77ee17d995bfd365c92865cab0b5769946fb67879c597"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/031",
+          "bytes": 8388608,
+          "sha256": "0efe2690b7be40291fa9d018402afa9b23068e478530c37e734af52d177b8752"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/032",
+          "bytes": 8388608,
+          "sha256": "39e6caac83aaf4541c72c7e1eb1d46fceaba6a5154bb2373635e9059b2277908"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/033",
+          "bytes": 8388608,
+          "sha256": "d800929c3297c02c2c5e92be6d9f23041a9ac145ce7d24b07b318751f488d814"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/034",
+          "bytes": 8388608,
+          "sha256": "86be6f467f3ce90b09327e564193c7d861735a777c922e176e2299e2729272de"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/035",
+          "bytes": 8388608,
+          "sha256": "181be3b23f2765f1b96975ebfaaad054618ca95ef5b0fdf20355e5cda27f834a"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/036",
+          "bytes": 8388608,
+          "sha256": "5d95e9732f8f7ececac45ab13028358656f8de17091ddeabe4d848c0f42af57c"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/037",
+          "bytes": 8388608,
+          "sha256": "127e2b2331d79f1f071d0672e589ed56fb9b886a7752d334ac7b8dc4c6b5d541"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/038",
+          "bytes": 8388608,
+          "sha256": "b4730e73c91332894eb48f86e7aea9e7659b7be18de4e069a54850c00bce1b5e"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/039",
+          "bytes": 8388608,
+          "sha256": "83c449295d4430f8d3c84141b6621065614f147148531228b5681dc5e6031df7"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/040",
+          "bytes": 8388608,
+          "sha256": "9b660034c4398637f8bf3ff3146e8e868cc97e5a298528bd4b765c3ccc0ed0b0"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/041",
+          "bytes": 8388608,
+          "sha256": "faf0ce981af207cb16ab7e801951ca980336987f12c00cf43db2f6f869d747de"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/042",
+          "bytes": 8388608,
+          "sha256": "f5da65f164a03f8bcb7121ca23a249b148afc823c68039c5e02d9382f78cfdc5"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/043",
+          "bytes": 8388608,
+          "sha256": "c97a95ef858d1fa3f794de8841d737de89f479237e0eadd7e12c5d11d8227b72"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/044",
+          "bytes": 8388608,
+          "sha256": "650244d536d4798ec43574c75a1938199b4578096fa49daf76fe51d6376011ad"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/045",
+          "bytes": 8388608,
+          "sha256": "9b0f3d8afbdf9119154754fdcf00c9ad82cfb420b6ac6edadbe0437f19fc6215"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/046",
+          "bytes": 8388608,
+          "sha256": "3f439d7c3f20619e09ee7a923f92ace20744bf4985bcdb3fafb5a61fe58993d1"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/047",
+          "bytes": 8388608,
+          "sha256": "4f431cd04aa6e77bb83612480774b8c6cecd40738ed28acbe1f4969f36be88d9"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/048",
+          "bytes": 8388608,
+          "sha256": "fddca6fe3ceeecf72719a515879f6b098254d72848a5760ab6e577333b8fa1b7"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/049",
+          "bytes": 8388608,
+          "sha256": "033f33ead5616266f4cef3e558578a02ee20818fe513790807ea1bb9c22c609b"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/050",
+          "bytes": 8388608,
+          "sha256": "5a458004fcf583ff7b9258f8911c10a16a5c3d1495a942d03e61f9479af3e6a0"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/051",
+          "bytes": 8388608,
+          "sha256": "874626927825b5372190b6c8f34817a81404c62685b5e0d3d4275787fe210741"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/052",
+          "bytes": 8388608,
+          "sha256": "2352aac6617cb234a2df4d03577ded164b147e9b45cc0121d707cec0b46c44dd"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/053",
+          "bytes": 8388608,
+          "sha256": "fad2bf55c863e57d986adcd752729bd053ddf632b1662a97131ece3c7a5421fb"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/054",
+          "bytes": 8388608,
+          "sha256": "fcda13837f385614c6ab89a06e60444e11fe1c777ed9cc6e42012bb3d362ee48"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/055",
+          "bytes": 8388608,
+          "sha256": "80a20bf3ac55c68028d4af46fc99799dcdf6a331874bfd21fd6350935fffb23c"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/056",
+          "bytes": 8388608,
+          "sha256": "013423cdd3b2a5e33c09bb498c96a15a547bfb0f10cf746b83494a9d9ffe040b"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/057",
+          "bytes": 8388608,
+          "sha256": "a62572f42abdb9015d6bc84f8060d53c01f0da18096b8f104b8aa2ac9a89fe48"
+        },
+        {
+          "path": "originals/sprites-completos.zip.parts/058",
+          "bytes": 1821515,
+          "sha256": "91ebabd5bd9e91e6430641df856cd1e14cbd97a4d1492d0128cd451d1be3017f"
+        }
+      ]
+    }
+  ]
+}
