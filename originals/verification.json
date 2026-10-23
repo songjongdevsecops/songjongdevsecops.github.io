@@ -1,0 +1,32 @@
+{
+  "verifiedOn": "2026-10-23",
+  "source": "unauthenticated public GitHub download",
+  "dataCommit": "e5332631081372ce553cc78ef66500ee806cff49",
+  "allPartsPublishedAndChecked": 63,
+  "archives": [
+    {
+      "name": "magias.zip",
+      "bytes": 1316455,
+      "sha256": "e7a6446a99fc4e9c6d5f3ab74815a6b0b9ae2b9a02452b805afd50e7255e0be1",
+      "status": "passed"
+    },
+    {
+      "name": "criaturas.zip",
+      "bytes": 18624681,
+      "sha256": "72df67f1036ff828a70cd4e6a087841789894632f7d23eea679d2cc46a3a9fcb",
+      "status": "passed"
+    },
+    {
+      "name": "sprites-completos.zip",
+      "bytes": 488360779,
+      "sha256": "db353357ddd2821657e265b42cbb04d0f3b39fcdd1b86d60b8e2e7140ed7d06e",
+      "status": "passed"
+    }
+  ],
+  "reconstruction": "passed",
+  "existingWrongDestinationPreserved": "passed",
+  "corruptPartRejected": "passed",
+  "truncatedAndCorruptHTTPRetry": "passed",
+  "releaseCreated": false,
+  "privilegedPublicationWorkflowInstalled": false
+}
