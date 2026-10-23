@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "defaultStatus": "pending",
+  "entries": [
+    {
+      "id": "arte/criaturas/d6162e2326bb7c61840d",
+      "archive": "criaturas.zip",
+      "member": "Criaturas/Mam├¡feros/Wolf.gif",
+      "status": "draft",
+      "file": "docs/art/referencias/curadoria/lobo-vistas-rascunho.png",
+      "sha256": "701ea9829a34c179dde93a6c66a5a93c7cab2340d7262f3729a4a9201bc0b227",
+      "imageSize": [
+        1774,
+        887
+      ],
+      "review": {
+        "views": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "states": [
+          "idle"
+        ],
+        "issues": [
+          "Folha conceitual: não recortada nem alinhada para reprodução no motor.",
+          "Faltam ciclos de caminhada, ataque, impacto e morte.",
+          "Escala, paleta e perspectiva precisam de comparação com cenas atuais.",
+          "Não integrado ao renderizador nem aprovado como adaptação completa."
+        ]
+      },
+      "generator": "image_gen; prompt arquivado em lobo-prompt.txt"
+    }
+  ]
+}

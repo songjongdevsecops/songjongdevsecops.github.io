@@ -39,7 +39,7 @@ function card(a) {
   hint.textContent =
     a.category === "componentes"
       ? "Componente modular: definir montagem e corpo na cena."
-      : "Receita nativa para composição futura.";
+      : "Receita procedural — adaptação artística individual pendente.";
   article.append(title, canvas, id, hint);
   const direction = document.createElement("select");
   direction.setAttribute("aria-label", "Vista de " + a.label);
