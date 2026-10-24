@@ -1,5 +1,9 @@
 # Expansão de referências
 
+**Adaptação artística integral ainda pendente.** Consulte o
+[registro de curadoria individual](curadoria/README.md). As contagens abaixo
+representam cobertura do inventário e receitas, não artes finalizadas.
+
 Os três ZIPs fornecidos foram inventariados por inteiro: **264.075 arquivos
 visuais**, **218.769 receitas nativas** e **45.306 aliases de imagens repetidas**.
 São receitas procedurais, não 218.769 objetos desenhados individualmente.

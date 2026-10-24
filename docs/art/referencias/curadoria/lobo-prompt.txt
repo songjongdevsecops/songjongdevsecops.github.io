@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset: original gray forest wolf; eight-view model sheet.
+Reference: Wolf.gif anatomy, not a bitmap copy.
+Directions: south, west, east, north, southwest, southeast, northwest, northeast.
+Original design: slate-blue shaggy fur, cream chin/chest, rust ear tips, amber eyes, charcoal paws, bushy tail.
+Pixel art, hard clusters, dark selective outlines, restrained earthy colors, top-down oblique camera.
+Requested grid: 4 by 2 equal cells, transparent background, fixed ground anchor, no labels or scenery.
+Generated with built-in image_gen. Output remains a DRAFT: this prompt is not proof of compliance.
